@@ -1,4 +1,5 @@
-Instructions how to run 
+**Instructions how to run**
+
 Install the Packages:
 pip install torch==1.11.0+cu113
 pip install numpy
